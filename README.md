@@ -22,3 +22,6 @@ git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
 
 # push changes to github
 git push --set-upstream origin main
+
+#decided to modify README before pushing by add the URL to this lesson
+# https://docs.github.com/en/get-started/using-git/about-git
